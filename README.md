@@ -1,7 +1,7 @@
 # learning-plan
 
 ## Backend Programming
-- [ ] [A Byte of Python](https://python.swaroopch.com)
+- [X] [A Byte of Python](https://python.swaroopch.com)
 - [ ] [Automate the boring stuff with python](https://www.youtube.com/playlist?list=PL0-84-yl1fUnRuXGFe_F7qSH1LEnn9LkW)
 - [ ] [Codecademy: Learn Java](https://www.codecademy.com/learn/learn-java)
 - [ ] [Codecademy: Learn Python](https://www.codecademy.com/learn/learn-python)
